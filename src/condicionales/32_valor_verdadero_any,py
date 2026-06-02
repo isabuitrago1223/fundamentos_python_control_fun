@@ -1,0 +1,4 @@
+numeros = [0, 0, 1, 0]
+
+if any(numeros):
+    print("Al menos un número es no cero.")
